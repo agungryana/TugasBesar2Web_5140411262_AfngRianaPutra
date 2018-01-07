@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+/* ---------- Content ---------*/
+.page{
+	background: url(../icon.png) right top no-repeat;
+	padding-top: 10px;
+}
+.one{
+	background-color: #262626;
+}
+.one .page-container{
+	position: absolute;
+	margin-top: 11px;
+	bottom: 100px;
+	margin-left: -407px;
+	left: 50%;
+	margin-bottom: 50px;
+	max-width: 720px;
+	margin-right: 141px;
+}
+.one .page-container h2{
+	font-size: 4em;
+}
+.one .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+}
+.two{
+	background-color: aliceblue;
+}
+.two .page-container{
+	position: absolute;
+	margin-top: 11px;
+	margin-bottom: 50px;
+	max-width: 720px;
+}
+.two .page-container h2{
+	font-size: 4em;
+}
+.two .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+}
+.three{
+	background-color: ivory;
+}
+.three .page-container{
+	position: absolute;
+	margin-top: 90px;
+	margin-bottom: 60px;
+	max-width: 720px;
+}
+.three .page-container h2{
+	font-size: 4em;
+}
+.three .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+}
+.four{
+	background-color: darkslategrey;
+}
+.four .page-container{
+	position: absolute;
+	margin-top: 20px;
+	
+	margin-left: -407px;
+	left: 50%;
+	margin-bottom: 50px;
+	max-width: 720px;
+	margin-right: 141px;
+	height: auto;
+}
+.four .page-container h2{
+	font-size: 4em;
+}
+.four .page-container p{
+	padding: 20px 0;
+	line-height: 1.5em;
+}
+.order {
+	margin-left: 217px;
+	margin-right: 34px;
+	
+}
+.kanan {
+	margin-left: 112px;
+	margin-right: -379px;
+	
+}
